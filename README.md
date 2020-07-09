@@ -25,7 +25,7 @@ You can download it from [here](https://www.python.org/downloads/release/python-
 If above command works fine just skip the below SET command. IF it gives pip not recognized error, you need to add PIP path.
 For windows, enter below SET command. For linux you can use export command to add PIP path
 ```
-> set PATH=%PATH%;C:\Users\[user_name]\AppData\Local\Programs\Python\Python37\Scripts
+> set PATH=%PATH%;C:\Users\your_username\AppData\Local\Programs\Python\Python37\Scripts
 
 **2. Use coverage run to run your test suite**
 > coverage run -m unittest test_getText.py
