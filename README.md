@@ -19,8 +19,9 @@ Install coverage.py:
 ```
 If above command gives pip not recognized error, you need add PIP path.
 If you are using windows, just enter below command
-> echo %PATH%;C:\Users\[user_name]\AppData\Local\Programs\Python\Python37\Scripts
 ```
+> echo %PATH%;C:\Users\[user_name]\AppData\Local\Programs\Python\Python37\Scripts
+
 Use coverage run to run your test suite
 > coverage run -m unittest test_getText.py
 
