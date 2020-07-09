@@ -12,8 +12,6 @@ You can download it from [here](https://www.python.org/downloads/release/python-
 
 ## Running Unittest
 > py -m unittest test_getText.py
-
-<br>
 **Output Screen**
 ![image](test_output.png)
 
