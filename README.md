@@ -13,7 +13,7 @@ You can download it from [here](https://www.python.org/downloads/release/python-
 
 ## Tool for getting Code Coverage Value
 
-Install coverage.py:
+1. Install coverage.py:
 > pip install coverage
 
 ```
@@ -22,10 +22,10 @@ For windows, enter below command. For linux you can use export command to add PI
 ```
 > echo %PATH%;C:\Users\[user_name]\AppData\Local\Programs\Python\Python37\Scripts
 
-Use coverage run to run your test suite
+2. Use coverage run to run your test suite
 > coverage run -m unittest test_getText.py
 
-Use coverage report to report on the results:
+3. Use coverage report to report on the results:
 > coverage report -m
 
 
