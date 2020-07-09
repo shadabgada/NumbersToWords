@@ -33,7 +33,7 @@ For windows, enter below SET command. For linux you can use export command to ad
 **3. Use coverage report to report on the results:**
 > coverage report -m
 
-**Output Screen**
+**Output Screen**: Here, Unittest have done code coverage of 95%
 ![image](coverage.png)
 
 
