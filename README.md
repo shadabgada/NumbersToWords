@@ -33,6 +33,9 @@ For windows, enter below SET command. For linux you can use export command to ad
 **3. Use coverage report to report on the results:**
 > coverage report -m
 
+**Output Screen**
+![image](coverage.png)
+
 
 
 
