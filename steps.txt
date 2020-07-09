@@ -1,0 +1,23 @@
+
+
+Install python:
+py getText.py
+
+
+
+Unit Test
+
+	- https://coverage.readthedocs.io/en/coverage-5.2/
+	- https://www.datacamp.com/community/tutorials/unit-testing-python
+
+Run unittest:
+- py -m unittest test_getText.py
+
+
+Code for coverage:	
+- pip install coverage
+- coverage run -m unittest test_getText.py
+- coverage report -m
+
+TODO:
+	ASSERT FOR EXCEPTIONS
