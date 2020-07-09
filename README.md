@@ -22,11 +22,11 @@ For windows, enter below command. For linux you can use export command to add PI
 ```
 > echo %PATH%;C:\Users\[user_name]\AppData\Local\Programs\Python\Python37\Scripts
 
-2. Use coverage run to run your test suite
-> coverage run -m unittest test_getText.py
+1. Use coverage run to run your test suite
+ > coverage run -m unittest test_getText.py
 
-3. Use coverage report to report on the results:
-> coverage report -m
+2. Use coverage report to report on the results:
+ > coverage report -m
 
 
 
