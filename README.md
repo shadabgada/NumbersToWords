@@ -6,10 +6,14 @@
 You need to have python version 3.X, preferably 3.7.7
 <br>
 You can download it from [here](https://www.python.org/downloads/release/python-377/).
+<br>
+**Ouput Screen**
 ![image](output.png)
 
 ## Running Unittest
 > py -m unittest test_getText.py
+<br>
+**Ouput Screen**
 ![image](test_output.png)
 
 ## Tool for getting Code Coverage Value
